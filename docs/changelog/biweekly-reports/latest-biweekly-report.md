@@ -1,6 +1,6 @@
 # 2023.06.19 - 2023.07.02 – GreptimeDB v0.3.2 release
 
-July 5, 2023 · 6 min read
+July 5, 2023 · 5 min read
 
 ## Summary
 Together with all our contributors worldwide, we are glad to see GreptimeDB making remarkable progress for the better. Below are some highlights:
@@ -18,7 +18,7 @@ Congrats on becoming our most active contributors in the past 2 weeks:
 - [@etolbakov](https://github.com/etolbakov) ([db#1789](https://github.com/GreptimeTeam/greptimedb/pull/1789) [db#1826](https://github.com/GreptimeTeam/greptimedb/pull/1826) [dashboard#283](https://github.com/GreptimeTeam/dashboard/pull/283))
 - [@NiwakaDev](https://github.com/NiwakaDev) ([docs#425](https://github.com/GreptimeTeam/docs/pull/425))
 - [@sjcsjc123](https://github.com/sjcsjc123) ([gtctl#84](https://github.com/GreptimeTeam/gtctl/pull/84))
-- [sjmiller609](https://github.com/sjmiller609) ([parser#67](https://github.com/GreptimeTeam/promql-parser/pull/67))
+- [@sjmiller609](https://github.com/sjmiller609) ([parser#67](https://github.com/GreptimeTeam/promql-parser/pull/67))
 
 👏 Let's welcome **@sjcsjc123** and **@sjmiller609** as the new contributors to join our community with their first PRs merged. 
 
